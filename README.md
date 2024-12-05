@@ -1,0 +1,2 @@
+# QODELESS
+Pasta de exercícios.
